@@ -1,4 +1,13 @@
-### Hi there 👋
+### My Own Repositories (not forks)
+
+[DevOpsManifests](https://github.com/justmike1/DevOpsManifests)
+[MarketWatcher](https://github.com/justmike1/MarketWatcher)
+[resolve-and-ping](https://github.com/justmike1/resolve-and-ping)
+[CryptoTradingTools](https://github.com/justmike1/CryptoTradingTools)
+[AutomationScripts](https://github.com/justmike1/AutomationScripts)
+[WorldOfGames-DOE](https://github.com/justmike1/WorldOfGames-DOE)
+
+**I also contribute from here and my work account to other projects**
 
 <!--
 **justmike1/justmike1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
