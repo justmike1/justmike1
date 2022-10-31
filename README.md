@@ -1,4 +1,4 @@
-### My Own Repositories (not forks)
+### My Own Repositories (without forks)
 
 
 *If you're a recruiter you should start with this one*
