@@ -1,10 +1,21 @@
 ### My Own Repositories (not forks)
 
-[DevOpsManifests](https://github.com/justmike1/DevOpsManifests)
+*If you're a recruiter you should start with this one*
+[DevOpsManifests](https://github.com/justmike1/DevOpsManifests) 
+
+*My favorite project*
 [MarketWatcher](https://github.com/justmike1/MarketWatcher)
+
+*Just resolving DNS and pinging to catch best one*
 [resolve-and-ping](https://github.com/justmike1/resolve-and-ping)
+
+*Algorithm based tools for crypto trading*
 [CryptoTradingTools](https://github.com/justmike1/CryptoTradingTools)
+
+*Automation scripts to ease my work*
 [AutomationScripts](https://github.com/justmike1/AutomationScripts)
+
+*Project to present on my DevOps Experts course, I got High Honors*
 [WorldOfGames-DOE](https://github.com/justmike1/WorldOfGames-DOE)
 
 **I also contribute from here and my work account to other projects**
