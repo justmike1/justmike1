@@ -5,7 +5,7 @@
 
 [DevOpsManifests](https://github.com/justmike1/DevOpsManifests) 
 
-*My website based on Next.js + MUI v5 + React [WIP]*
+*My website based on Next.js v13 + MUI v5 + React v18 [WIP]*
 
 [BookishSWAdventure](https://github.com/justmike1/bookish-sw-adventure)
 
