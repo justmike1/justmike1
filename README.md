@@ -15,6 +15,10 @@
 
 [MarketWatcher](https://github.com/justmike1/MarketWatcher)
 
+*Resetting quickly my shitty HOT router*
+
+[Hotddos](https://github.com/justmike1/hotddos)
+
 
 *Just resolving DNS and pinging to catch best one*
 
@@ -35,7 +39,7 @@
 
 [WorldOfGames-DOE](https://github.com/justmike1/WorldOfGames-DOE)
 
-**I also contribute from here and my work account to other projects**
+**I also contribute to open-source projects & organizations**
 
 <!--
 **justmike1/justmike1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
