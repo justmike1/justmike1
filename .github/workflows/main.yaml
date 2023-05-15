@@ -17,3 +17,5 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
           plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
