@@ -19,5 +19,5 @@ jobs:
           plugin_achievements_limit: 0
           plugin_achievements_display: compact
           plugin_notable: yes
-          plugin_notable_filter: stars:>0
+          plugin_notable_filter: stars:>10
           plugin_notable_repositories: yes
