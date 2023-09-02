@@ -3,7 +3,11 @@
 
 *If you're a recruiter you should start with this one*
 
-[DevOpsManifests](https://github.com/justmike1/DevOpsManifests) 
+[DevOpsManifests](https://github.com/justmike1/DevOpsManifests)
+
+*Golang API client library for apache superset (Also mentioned in [Superset](https://github.com/apache/superset/wiki/Community-Resource-Library#third-party-libraries))*
+
+[GoPerset](https://github.com/justmike1/goperset)
 
 *My website based on Next.js v13 + MUI v5 + React v18 [WIP]*
 
