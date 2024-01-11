@@ -13,6 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          plugin_languages: yes
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_secrets: yes
