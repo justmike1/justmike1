@@ -9,7 +9,8 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # Revert to lowlighter/metrics@latest after https://github.com/lowlighter/metrics/issues/1706 addressed
+      - uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
